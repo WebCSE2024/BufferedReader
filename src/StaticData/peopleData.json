@@ -1,0 +1,224 @@
+{
+  "admin": [
+    {
+      "name": "Prof. Chiranjeev Kumar",
+      "linkedin": "https://www.linkedin.com/in/ck31101974/",
+      "photo": "/professor/ck_sir.jpg",
+      "email": "chiranjeev@iitism.ac.in"
+    },
+    {
+      "name": "Prof. Soumen Bag",
+      "linkedin": "https://www.linkedin.com/in/soumen-bag-43ab8370/",
+      "photo": "/professor/sb_sir.jpg",
+      "email": "soumen@iitism.ac.in"
+    },
+    {
+      "name": "Prof. Pranav Bisht",
+      "linkedin": "https://www.linkedin.com/in/pranav-bisht-99157492/",
+      "photo": "/professor/pb_coFIC.jpg",
+      "email": "pranav@iitism.ac.in"
+    }
+  ],
+  "writers": [
+    {
+      "name": "Bitra Sri Pragna",
+      "linkedin": "https://in.linkedin.com/in/sri-pragna-bitra-283b2b255",
+      "photo": "/student/pragna.jpg",
+      "email": "22je0259@iitism.ac.in"
+    },
+    {
+      "name": "Kshitiz Pratap Singh",
+      "linkedin": "https://in.linkedin.com/in/kshitiz-pratap-singh-5b66bb24a",
+      "photo": "/student/Kshitiz.jpg",
+      "email": "22je0502@iitism.ac.in"
+    },
+    {
+      "name": "Nanneboina Naga Chaitanya",
+      "linkedin": "https://in.linkedin.com/in/naga-chaitanya-nanneboina",
+      "photo": "/student/Naga Chaitanya.jpg",
+      "email": "22je0610@iitism.ac.in"
+    },
+    {
+      "name": "Shyam Sunder",
+      "linkedin": "https://www.linkedin.com/in/shyam-s-948767255/",
+      "photo": "/student/shyam.jpg",
+      "email": "22je0945@iitism.ac.in"
+    },
+    {
+      "name": "Sachin Rajguru",
+      "linkedin": "https://in.linkedin.com/in/sachin-rajguru-611249296",
+      "photo": "/student/shacin.jpg",
+      "email": "23je0837@iitism.ac.in"
+    },
+    {
+      "name": "Rohan Garg",
+      "linkedin": "https://in.linkedin.com/in/rohan-garg-1446-",
+      "photo": "/student/Rohan.jpg",
+      "email": "23je0822@iitism.ac.in"
+    },
+    {
+      "name": "Sumit Kumar",
+      "linkedin": "https://www.linkedin.com/in/sumit-kumar-b513102a4/",
+      "photo": "/student/sumit.jpg",
+      "email": "23je0985@iitism.ac.in"
+    },
+    {
+      "name": "Apurva Arya",
+      "linkedin": "https://www.linkedin.com/in/apurva-arya-1b9920320/",
+      "photo": "/student/apurva.jpg",
+      "email": "24je0593@iitism.ac.in"
+    },
+    {
+      "name": "Dakshta Wadibhasme",
+      "linkedin": "https://in.linkedin.com/in/dakshta-wadibhasme-b0a21a325",
+      "photo": "/student/dakshta.jpg",
+      "email": "24je0608@iitism.ac.in"
+    },
+    {
+      "name": "Happy Saxena",
+      "linkedin": "https://www.linkedin.com/in/happy-saxena/",
+      "photo": "/student/happy.jpg",
+      "email": "24je0622@iitism.ac.in"
+    },
+    {
+      "name": "Ishika Acharya",
+      "linkedin": "https://www.linkedin.com/in/ishika-acharya-380bb9270/",
+      "photo": "/student/ishika.jpg",
+      "email": "24je0623@iitism.ac.in"
+    },
+    {
+      "name": "Jay Solanki",
+      "linkedin": "https://www.linkedin.com/in/jay-solanki-330015313/",
+      "photo": "/student/jay.jpg",
+      "email": "24je0627@iitism.ac.in"
+    },
+    {
+      "name": "Kartik Lolla",
+      "linkedin": "https://www.linkedin.com/in/kartik-lolla-35a77131a/",
+      "photo": "/student/kartik.jpg",
+      "email": "24je0633@iitism.ac.in"
+    },
+    {
+      "name": "Meghana Merla ",
+      "linkedin": "https://www.linkedin.com/in/durga-naga-meghana-merla-9338b7320/",
+      "photo": "/student/meghana.jpg",
+      "email": "24je0654@iitism.ac.in"
+    },
+    {
+      "name": "Nidhi Mithiya",
+      "linkedin": "https://www.linkedin.com/in/nidhi-mithiya11/",
+      "photo": "/student/nidhi.jpg",
+      "email": "24je0664@iitism.ac.in"
+    },
+    {
+      "name": "Raj Priyadarshi",
+      "linkedin": "https://www.linkedin.com/in/raj-priyadarshi-1220b9314/",
+      "photo": "/student/raj.jpg",
+      "email": "24je0679@iitism.ac.in"
+    },
+    {
+      "name": "S Navya Sai Sree",
+      "linkedin": "https://www.linkedin.com/in/s-sree-352588343/",
+      "photo": "/student/navya.jpg",
+      "email": "24je0684@iitism.ac.in"
+    },
+    {
+      "name": "Sreenandan Shashidharan",
+      "linkedin": "http://www.linkedin.com/in/sreenandan",
+      "photo": "/student/sreenandan.jpg",
+      "email": "24je0701@iitism.ac.in"
+    }
+  ],
+  "designers": [
+    {
+      "name": "Monil Chandgdhiya",
+      "linkedin": "https://in.linkedin.com/in/monil-chandgadhiya-626600255",
+      "photo": "/student/Monil.jpg",
+      "email": "22je0588@iitism.ac.in"
+    },
+    {
+      "name": "Ketham Reddy Supreeth",
+      "linkedin": "https://in.linkedin.com/in/supreeth-kethamreddy-189a50253",
+      "photo": "/student/Supreeth.jpg",
+      "email": "22je0474@iitism.ac.in"
+    },
+    {
+      "name": "Mirthipati Chinni Krishna Balaji",
+      "linkedin": "https://www.linkedin.com/in/balajimchk",
+      "photo": "/student/balaji.jpg",
+      "email": "22je0573@iitism.ac.in"
+    },
+    {
+      "name": "Divyanshu Singh",
+      "linkedin": "https://www.linkedin.com/in/divyanshu-singh-9b73b2279/",
+      "photo": "/student/Divyanshu.jpg",
+      "email": "22je0333@iitism.ac.in"
+    },
+    {
+      "name": "Daksh Mor",
+      "linkedin": "https://in.linkedin.com/in/daksh-mor",
+      "photo": "/student/Daksh.jpg",
+      "email": "23je0286@iitism.ac.in"
+    },
+    {
+      "name": "Kasam Pramodha",
+      "linkedin": "https://in.linkedin.com/in/pramodha-kasam-4979ab289",
+      "photo": "/student/Kasam.jpg",
+      "email": "23je0463@iitism.ac.in"
+    },
+    {
+      "name": "Samarth Jindal",
+      "linkedin": "https://in.linkedin.com/in/samarth-jindal-1129a01b8",
+      "photo": "/student/Samarth.jpg",
+      "email": "23je0856@iitism.ac.in"
+    },
+    {
+      "name": "Jatin Kumar",
+      "linkedin": "https://in.linkedin.com/in/jatin-kumar-053b1a298",
+      "photo": "/student/Jatin.jpg",
+      "email": "23je0430@iitism.ac.in"
+    },
+    {
+      "name": "Robin Kumar",
+      "linkedin": "https://in.linkedin.com/in/robin-kumar-0b522a300",
+      "photo": "/student/Robin.jpg",
+      "email": "23je0821@iitism.ac.in"
+    },
+    {
+      "name": "Anshi Kandulna",
+      "linkedin": "https://www.linkedin.com/in/anshi-kandulna-26a5a6320/",
+      "photo": "/student/anshi.jpg",
+      "email": "24je0591@iitism.ac.in"
+    },
+    {
+      "name": "Shajith Bathina",
+      "linkedin": "https://www.linkedin.com/in/shajith240",
+      "photo": "/student/shajith.jpg",
+      "email": "24je0598@iitism.ac.in"
+    },
+    {
+      "name": "Jayareddy Gari Dhanunjaya Reddy",
+      "linkedin": "https://www.linkedin.com/in/dhanunjaya-reddy-jaya-reddy-gari-b47aa8320/",
+      "photo": "/student/jayareddy.jpg",
+      "email": "24je0628@iitism.ac.in"
+    },
+    {
+      "name": "Muskan Bibhuty",
+      "linkedin": "https://www.linkedin.com/in/muskan-bibhuty/",
+      "photo": "/student/muskan.jpg",
+      "email": "24je0659@iitism.ac.in"
+    },
+    {
+      "name": "Rahul Joshi",
+      "linkedin": "https://in.linkedin.com/in/rahul-joshi-059a882a7",
+      "photo": "/student/rahul.jpg",
+      "email": "24je0678@iitism.ac.in"
+    },
+    {
+      "name": "Raj Priyadarshi",
+      "linkedin": "https://www.linkedin.com/in/raj-priyadarshi-1220b9314/",
+      "photo": "/student/raj.jpg",
+      "email": "24je0679@iitism.ac.in"
+    }
+  ]
+}
